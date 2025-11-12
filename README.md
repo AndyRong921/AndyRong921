@@ -14,11 +14,11 @@
 
 ## Quick Intro
 
-- 🌱 I’m currently learning: parallel computing and numerical linear algebra and machine learning.
-- 👯 I’m looking to collaborate on: open-source libraries, and teaching resources.
-- 💬 Ask me about: C/Cpp Working experience, frontend skills, AI-generated coding and developer experience.
-- 📫 How to reach me: sunjingyu(at)stu.ouc.edu.cn
-- ⚡ Interests: I love simplifying complex ideas into small tools and tutorials.
+- 🎓 I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**.
+- 🌱 My interests and learning focus are: **Deep Learning**, **Image Recognition & Classification**, **Optimization & Operations Research**, and **Graph Theory**.
+- 🏆 In mathematical modeling competitions, my main focus is **Problem B (National Contest)** and **Problem D (MCM/ICM)**, specializing in the Optimization/OR direction.
+- 📫 How to reach me: **rzj(at)stu.ouc.edu.cn**
+- 💬 Ask me about: Any of the topics above!
 
 ## Github Insights
 
