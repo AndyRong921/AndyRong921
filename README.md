@@ -1,4 +1,4 @@
-# Jingyu Sun
+# Zhijin Rong
 
 <div align="center">
 
@@ -21,20 +21,20 @@
 ## Github Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stonehfzs&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonehfzs&layout=compact&theme=nord&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndyRong921&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyRong921&layout=compact&theme=nord&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stonehfzs&theme=nord&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyRong921&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stonehfzs&theme=nord&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AndyRong921&theme=nord&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stonehfzs&theme=nord&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyRong921&theme=nord&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 # Repositories
