@@ -22,6 +22,20 @@
   - **2025 CUMCM**: National Second Prize
 - 📫 How to reach me: **rzj@stu.ouc.edu.cn**
 - 💬 Ask me about: Any of the topics above!
+
+### 🔬 Research & Projects
+
+#### 🚀 Ongoing Research
+**Computational Biology: Batch Effect Removal**
+* **Focus:** Addressing domain shift challenges in computational biology.
+* **Methodology:** Leveraging mathematical modeling, including Bayesian estimation, regression analysis, and other statistical approaches to mitigate technical variation.
+
+#### ✅ Completed Projects
+**[DARE (Domain-Aware Representation Enhancement)](https://github.com/AndyRong921/DARE)**
+* **Focus:** Histopathological tissue classification.
+* **Objective:** Utilizing lightweight deep learning frameworks to address domain adaptation challenges in medical imaging.
+
+---
   
 ## Github Insights
 
@@ -46,6 +60,7 @@
 
 These repositories are currently finished and would not have big changes recently:
 
+[![Project-DARE-Domain-Aware-Representation-Enhancement](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=DARE)](https://github.com/AndyRong921/DARE)
 [![Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning)](https://github.com/AndyRong921/Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning)
 [![OUC_Haide_ODE_NOTES](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=OUC_Haide_ODE_NOTES)](https://github.com/AndyRong921/OUC_Haide_ODE_NOTES)
 [![HaideNews_LatexCourse_Web](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=HaideNews_LatexCourse_Web)](https://github.com/AndyRong921/HaideNews_LatexCourse_Web)
