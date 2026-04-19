@@ -15,7 +15,7 @@
 ## Quick Intro
 
 - 🎓 I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**.
-- 🌱 My interests and learning focus are: **Deep Learning**, **Image Recognition & Classification**, **Optimization & Operations Research**, and **Graph Theory**.
+- 🌱 My interests and learning focus are: **Deep Learning**, **Image Recognition & Classification**, especially on **mathematical modeling and statistical theory** to mitigate **domain shift** challenges in computer vision tasks.
 - 🏆 In mathematical modeling competitions, my main focus is **Problem B (CUMMCM)** and **Problem D (MCM/ICM)**, specializing in the Optimization/OR direction.
 - 🏅 **Competition Achievements**:
   - **2024 MCM/ICM**: Meritorious Winner (Paper Open Sourced)
@@ -60,8 +60,7 @@
 
 These repositories are currently finished and would not have big changes recently:
 
-
+[![Project-DARE-Domain-Aware-Representation-Enhancement](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=DARE)](https://github.com/AndyRong921/DARE)
 [![Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning)](https://github.com/AndyRong921/Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning)
 [![OUC_Haide_ODE_NOTES](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=OUC_Haide_ODE_NOTES)](https://github.com/AndyRong921/OUC_Haide_ODE_NOTES)
 [![HaideNews_LatexCourse_Web](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=HaideNews_LatexCourse_Web)](https://github.com/AndyRong921/HaideNews_LatexCourse_Web)
-[![haidemath.github.io](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=haidemath.github.io)](https://github.com/AndyRong921/haidemath.github.io)
