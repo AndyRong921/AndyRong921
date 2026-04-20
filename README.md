@@ -78,11 +78,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndyRong921&theme=nord&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
-# Repositories
 
-These repositories are currently finished and would not have big changes recently:
-
-[![Project-DARE-Domain-Aware-Representation-Enhancement](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=DARE)](https://github.com/AndyRong921/DARE)
-[![Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning)](https://github.com/AndyRong921/Project-Simulation_An-optimization-Plan-for-urban-transportation-network-planning)
-[![OUC_Haide_ODE_NOTES](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=OUC_Haide_ODE_NOTES)](https://github.com/AndyRong921/OUC_Haide_ODE_NOTES)
-[![HaideNews_LatexCourse_Web](https://github-readme-stats.vercel.app/api/pin/?username=AndyRong921&theme=nord&repo=HaideNews_LatexCourse_Web)](https://github.com/AndyRong921/HaideNews_LatexCourse_Web)
