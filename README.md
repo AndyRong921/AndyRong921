@@ -23,21 +23,22 @@
 - 📫 How to reach me: **rzj@stu.ouc.edu.cn**
 - 💬 Ask me about: Any of the topics above!
 
-###  Research & Projects
+##  Research & Projects
 
-####  Ongoing Research
-**Computational Biology: Batch Effect Removal**
+### 🔬 Ongoing Research
+
+**🧬 Computational Biology: Batch Effect Removal**
 * **Focus:** Addressing domain shift challenges in computational biology.
 * **Methodology:** Leveraging mathematical modeling, including Bayesian estimation, regression analysis, and other statistical approaches to mitigate technical variation.
 
-####  Completed Projects
+### 📝 Completed Projects
 
 <table>
   <tr>
-  <td width="30%" valign="middle" align="center">
+  <td width="35%" valign="middle" align="center">
     <img src="dear_framework.png" width="100%">
-  </td>
-    <td width="70%" valign="top">
+    </td>
+    <td valign="top">
       <h3><a href="https://github.com/AndyRong921/DARE">DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification</a></h3>
       <p>
         <b>Focus:</b> Addressing domain shiftin medical image classification tasks under small-sample constraints, achieving high-performance results via data-efficient learning strategies.
