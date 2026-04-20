@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-  <td width="35%" valign="middle" align="center">
+  <td width="30%" valign="middle" align="center">
     <img src="dear_framework.png" width="100%">
     </td>
     <td valign="top">
