@@ -34,9 +34,9 @@
 
 <table>
   <tr>
-    <td width="30%" valign="top">
-      <img src="assets/your_framework_diagram.png" width="100%">
-    </td>
+  <td width="30%" valign="middle" align="center">
+    <img src="dear_framework.png" width="100%">
+  </td>
     <td width="70%" valign="top">
       <h3><a href="https://github.com/AndyRong921/DARE">DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification</a></h3>
       <p>
