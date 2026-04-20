@@ -23,17 +23,39 @@
 - 📫 How to reach me: **rzj@stu.ouc.edu.cn**
 - 💬 Ask me about: Any of the topics above!
 
-### 🔬 Research & Projects
+###  Research & Projects
 
-#### 🚀 Ongoing Research
+####  Ongoing Research
 **Computational Biology: Batch Effect Removal**
 * **Focus:** Addressing domain shift challenges in computational biology.
 * **Methodology:** Leveraging mathematical modeling, including Bayesian estimation, regression analysis, and other statistical approaches to mitigate technical variation.
 
-#### ✅ Completed Projects
-**[DARE (Domain-Aware Representation Enhancement)](https://github.com/AndyRong921/DARE)**
-* **Focus:** Histopathological tissue classification.
-* **Objective:** Utilizing lightweight deep learning frameworks to address domain adaptation challenges in medical imaging.
+####  Completed Projects
+
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <img src="assets/your_framework_diagram.png" width="100%">
+    </td>
+    <td width="70%" valign="top">
+      <h3><a href="https://github.com/AndyRong921/DARE">DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification</a></h3>
+      <p>
+        <b>Focus:</b> Addressing domain shiftin medical image classification tasks under small-sample constraints, achieving high-performance results via data-efficient learning strategies.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Under_Review-orange">
+        <img src="https://img.shields.io/badge/Focus-Domain_Shift-blue">
+        <img src="https://img.shields.io/badge/Language-Python-blue">
+        <img src="https://img.shields.io/badge/Framework-PyTorch-red">
+      </p>
+      <p>
+        <i>This repository provides the official implementation of DARE. Efficiently tackling domain adaptation in histopathological analysis.</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
   
