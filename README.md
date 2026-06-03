@@ -68,7 +68,6 @@
         <b>Focus:</b> An all-in-one graphical toolkit (GUI) designed for the Yuketang platform, featuring automated quiz scraping (Selenium), Excel-to-PDF formatting (Recitation/Practice versions via ReportLab), and intelligent PDF question-bank differential analysis.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active_Maintenance-green">
         <img src="https://img.shields.io/badge/Type-Open_Source_Co--construction-brightgreen">
         <img src="https://img.shields.io/badge/Original_Author-AndyRong921-orange">
         <img src="https://img.shields.io/badge/Language-Python-blue">
@@ -76,7 +75,7 @@
       <p>
         🤝 <b>开源共建与加入指引 / Collaboration & Contribution:</b><br>
         本项目由<b>AndyRong921</b>作为原创作者发起并完成核心功能开发。这是一个<b>开源共建项目</b>，非常欢迎和期待大家加入，一起维护、优化界面体验或补充适配规则！<br>
-        <b>如何加入：</b>请通过邮箱联系我。联系时请在来信中说明你的想法，并在你的 GitHub 仓库中展示你更新或计划提交的代码。让我们一起把这个工具箱变得更好用！
+        <b>如何加入</b>：<i>请通过邮箱联系我。联系时请在来信中说明你的想法，并在你的 GitHub 仓库中展示你更新或计划提交的代码。让我们一起把这个工具箱变得更好用！</i>
       </p>
     </td>
   </tr>
