@@ -60,8 +60,7 @@
 <table>
   <tr>
     <td width="30%" valign="middle" align="center">
-      <!-- 可使用仓库中的 ykt1.png/ykt2.png/ykt3.png 或综合运行截图 -->
-      <img src="ykt1.png" width="100%" alt="STORM_yuketang">
+      <img src="yuketang_abstract.png" width="100%" alt="STORM_yuketang">
     </td>
     <td valign="top">
       <h3><a href="https://github.com/AndyRong921/STORM_yuketang">STORM_yuketang</a></h3>
