@@ -57,7 +57,31 @@
 </table>
 
 
-
+<table>
+  <tr>
+    <td width="30%" valign="middle" align="center">
+      <!-- 可使用仓库中的 ykt1.png/ykt2.png/ykt3.png 或综合运行截图 -->
+      <img src="ykt1.png" width="100%" alt="STORM_yuketang">
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/AndyRong921/STORM_yuketang">STORM_yuketang</a></h3>
+      <p>
+        <b>Focus:</b> An all-in-one graphical toolkit (GUI) designed for the Yuketang platform, featuring automated quiz scraping (Selenium), Excel-to-PDF formatting (Recitation/Practice versions via ReportLab), and intelligent PDF question-bank differential analysis.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active_Maintenance-green">
+        <img src="https://img.shields.io/badge/Type-Open_Source_Co--construction-brightgreen">
+        <img src="https://img.shields.io/badge/Original_Author-AndyRong921-orange">
+        <img src="https://img.shields.io/badge/Language-Python-blue">
+      </p>
+      <p>
+        🤝 <b>开源共建与加入指引 / Collaboration & Contribution:</b><br>
+        本项目由<b>AndyRong921</b>作为原创作者发起并完成核心功能开发。这是一个<b>开源共建项目</b>，非常欢迎和期待大家加入，一起维护、优化界面体验或补充适配规则！<br>
+        <b>如何加入：</b>请通过邮箱联系我。联系时请在来信中说明你的想法，并在你的 GitHub 仓库中展示你更新或计划提交的代码。让我们一起把这个工具箱变得更好用！
+      </p>
+    </td>
+  </tr>
+</table>
 ---
   
 ## Github Insights
