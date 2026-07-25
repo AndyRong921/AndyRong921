@@ -20,6 +20,7 @@
 - 🏅 **Competition Achievements**:
   - **2024 MCM/ICM**: Meritorious Winner (Paper Open Sourced)
   - **2025 CUMCM**: National Second Prize
+- 🔗 **Homepage**: [https://zhijinrong.github.io](https://zhijinrong.github.io)
 - 📫 How to reach me: **rzj@stu.ouc.edu.cn**
 - 💬 Ask me about: Any of the topics above!
 
