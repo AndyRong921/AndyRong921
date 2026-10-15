@@ -45,9 +45,7 @@
         <b>Focus:</b> Addressing domain shiftin medical image classification tasks under small-sample constraints, achieving high-performance results via data-efficient learning strategies.
       </p>
       <p>
-        <a href="https://doi.org/10.1016/j.bspc.2026.111648">
-          <img src="https://img.shields.io/badge/Paper-BSPC_2027-006B3F">
-        </a>
+        <a href="https://doi.org/10.1016/j.bspc.2026.111648">📄 Paper</a>
         <img src="https://img.shields.io/badge/Status-Accepted-brightgreen">
         <img src="https://img.shields.io/badge/Focus-Domain_Shift-blue">
         <img src="https://img.shields.io/badge/Language-Python-blue">
