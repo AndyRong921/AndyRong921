@@ -15,7 +15,7 @@
 ## Quick Intro
 
 - 🎓 I'm an undergraduate student majoring in **Mathematics and Applied Mathematics**.
-- 🌱 My interests and learning focus are: **Deep Learning**, **Image Recognition & Classification**, especially on **mathematical modeling and statistical theory** to mitigate **domain shift** challenges in computer vision tasks.
+- 🌱 My interests and learning focus are: **Trustworthy AI in Agent deception**, **Deep Learning**, **Image Recognition & Classification**, especially on **mathematical modeling and statistical theory** to mitigate **domain shift** challenges in computer vision tasks.
 - 🏆 In mathematical modeling competitions, my main focus is **Problem B (CUMMCM)** and **Problem D (MCM/ICM)**, specializing in the Optimization/OR direction.
 - 🏅 **Competition Achievements**:
   - **2024 MCM/ICM**: Meritorious Winner (Paper Open Sourced)
@@ -45,7 +45,10 @@
         <b>Focus:</b> Addressing domain shiftin medical image classification tasks under small-sample constraints, achieving high-performance results via data-efficient learning strategies.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Under_Review-orange">
+        <a href="https://doi.org/10.1016/j.bspc.2026.111648">
+          <img src="https://img.shields.io/badge/Paper-BSPC_2027-006B3F">
+        </a>
+        <img src="https://img.shields.io/badge/Status-Accepted-brightgreen">
         <img src="https://img.shields.io/badge/Focus-Domain_Shift-blue">
         <img src="https://img.shields.io/badge/Language-Python-blue">
         <img src="https://img.shields.io/badge/Framework-PyTorch-red">
